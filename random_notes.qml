@@ -68,7 +68,7 @@ MuseScore {
         spacing: 10
         Label{
             Layout.leftMargin: 10
-            text: "Set your input in the score (position and value) and then click \"Generate\".\n\n"
+            text: "Set your input in the score (position and value) and then click \"Apply\".\n\n"
         }
         GridLayout {
             columns: 2
